@@ -62,3 +62,14 @@ header .logo a {
   position: relative;
   top: 38px;
 }
+header .login-icon {
+  background-image: url("../images/loginLogo.png");
+  height: 50px;
+  width: 50px;
+  text-indent: -99999999999px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -20px;
+  left: 150px;
+  display: inline-block;
+}
